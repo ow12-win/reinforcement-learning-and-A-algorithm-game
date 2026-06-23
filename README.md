@@ -9,8 +9,8 @@ This project is a Unity-based maze game that demonstrates the use of two artific
 
 The project was developed to explore and compare different AI approaches within a game environment. The reinforcement learning agent learns how to navigate the maze through trial and error, while enemy characters use the A* algorithm to find the shortest path to their target.
 
-I also have attached a word document of thw whole process of building and learinign for this as it was my A-Level CS project and i got a 67/70
-
+I also have attached a pdf document of the whole process of building and learinign for this as it was my A-Level CS project and i got a 67/70
+PLEASE READ THE PDF ITS A IN DEPTH DOCUMENTATION
 ---
 
 ## Features
